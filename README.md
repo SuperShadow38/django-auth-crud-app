@@ -16,7 +16,7 @@ Django CRUD Auth is a Django-based web application that provides user authentica
 - Python 
 - Django 
 
-## Instalación
+#Instalación
 
 1. Asegúrate de que tienes Python y Django instalados en tu máquina.
 
