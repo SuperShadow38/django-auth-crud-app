@@ -49,11 +49,11 @@ Django CRUD Auth is a Django-based web application that provides user authentica
 - Si olvida su contraseña, utilice la función de restablecimiento de contraseña para restablecerla.
 - Los usuarios administradores pueden acceder a funciones adicionales, como la gestión de funciones y permisos de usuario.
 
-#Licencia
+## Licencia
 
 Este proyecto se publica bajo la licencia "Libre uso", lo que significa que es libre de usar, modificar y distribuir sin restricciones adicionales.
 
-#Contacto
+## Contacto
 
 Si tiene alguna pregunta o sugerencia, no dude en ponerse en contacto con nosotros en fabioavila537@gmail.com.
 
