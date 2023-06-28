@@ -40,7 +40,7 @@ Django CRUD Auth is a Django-based web application that provides user authentica
    
 8. Acceda a la aplicación en su navegador web en http://localhost:8000.
 
-## Usage
+## Uso
 
 - Visite la página de registro para crear una nueva cuenta.
 - Utilice la página de inicio de sesión para autenticarse y acceder a su cuenta.
@@ -49,10 +49,11 @@ Django CRUD Auth is a Django-based web application that provides user authentica
 - Si olvida su contraseña, utilice la función de restablecimiento de contraseña para restablecerla.
 - Los usuarios administradores pueden acceder a funciones adicionales, como la gestión de funciones y permisos de usuario.
 
-##Licencia
+#Licencia
+
 Este proyecto se publica bajo la licencia "Libre uso", lo que significa que es libre de usar, modificar y distribuir sin restricciones adicionales.
 
-##Contacto
+#Contacto
 
 Si tiene alguna pregunta o sugerencia, no dude en ponerse en contacto con nosotros en fabioavila537@gmail.com.
 
