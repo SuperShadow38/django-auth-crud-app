@@ -52,10 +52,10 @@ Django CRUD Auth es una aplicación web basada en Django que proporciona autenti
 
 ¡Las contribuciones son bienvenidas! Si quieres contribuir al proyecto, sigue estos pasos:
 
-1. 2. Fork el repositorio y crea una nueva rama para su función o corrección de errores.
-2. 2. Haga los cambios necesarios y envíelos a su rama.
+1. Fork el repositorio y crea una nueva rama para su función o corrección de errores.
+2. Haga los cambios necesarios y envíelos a su rama.
 3. Empuje su rama a su repositorio.
-Abra un pull request en el repositorio principal.
+4. Abra un pull request en el repositorio principal.
 
 ## Licencia
 
