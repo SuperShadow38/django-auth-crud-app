@@ -1,7 +1,6 @@
 # Django CRUD APP
 
-Django CRUD Auth is a Django-based web application that provides user authentication and CRUD (Create, Read, Update, Delete) functionality for managing user accounts.
-
+Django CRUD Auth es una aplicación web basada en Django que proporciona autenticación de usuarios y funcionalidad CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar cuentas de usuario.
 ## Características
 
 - Registro de usuarios: Permite a los usuarios crear nuevas cuentas proporcionando información básica como nombre de usuario, dirección de correo electrónico y una contraseña segura.
