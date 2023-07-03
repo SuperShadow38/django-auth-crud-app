@@ -1,70 +1,62 @@
 # Django CRUD APP
 
-Django CRUD Auth es una aplicación web basada en Django que proporciona autenticación de usuarios y funcionalidad CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar cuentas de usuario.
-## Características
+Django CRUD Auth is a Django-based web application that provides user authentication and CRUD (Create, Read, Update, Delete) functionality for managing user accounts.
 
-- Registro de usuarios: Permite a los usuarios crear nuevas cuentas proporcionando información básica como nombre de usuario, dirección de correo electrónico y una contraseña segura.
-- Autenticación de usuarios: Implemente la autenticación segura y la funcionalidad de inicio de sesión para garantizar que sólo los usuarios registrados puedan acceder a sus cuentas.
-- Perfil de usuario: Permitir a los usuarios ver y actualizar la información de su perfil, incluyendo foto de perfil, biografía y otros detalles.
-- Operaciones CRUD: Proporcione operaciones de creación, lectura, actualización y eliminación para gestionar las cuentas de usuario en el sistema.
-- Restablecimiento de contraseña: Implemente una función de restablecimiento de contraseña para permitir a los usuarios restablecer su contraseña en caso de que la olviden.
-- Control de acceso basado en roles: Asigne diferentes roles (por ejemplo, administrador, usuario normal) a los usuarios y aplique un control de acceso basado en roles para funcionalidades específicas.
+## Features
 
-## Requisitos
+- User registration: Allow users to create new accounts by providing basic information such as username, email address and a secure password.
+- User authentication: Implement secure authentication and login functionality to ensure that only registered users can access their accounts.
+- User profile: Allow users to view and update their profile information, including profile photo, biography and other details.
+- CRUD operations: Provide create, read, update and delete operations to manage user accounts in the system.
+- Password reset: Implement a password reset feature to allow users to reset their password in case they forget it.
+- Role-based access control: Assign different roles (e.g., administrator, normal user) to users and apply role-based access control for specific functionalities.
+
+## Requirements
 
 - Python 
 - Django 
 
-## Instalación
+## Installation
 
-1. Asegúrate de que tienes Python y Django instalados en tu máquina.
+1. Make sure you have Python and Django installed on your machine.
 
-2. Clona o descarga el repositorio "django-crud-auth".
+2. Clone or download the "django-crud-auth" repository.
 
-3. Navega hasta el directorio del proyecto en tu terminal.
+3. Navigate to the project directory in your terminal.
 
-4. Crea y activa un entorno virtual (opcional, pero recomendado).
+4. Create and activate a virtual environment (optional, but recommended).
 
-5. Instala las dependencias del proyecto ejecutando el siguiente comando:
-   ```shell
+5. Install the project dependencies by running the following command:
+   ````shell
    pip install -r requirements.txt
    
-6. Aplique las migraciones:
-   ```shell
+6. Apply the migrations:
+   ````shell
    python manage.py migrate
 
-7. Inicie el servidor de desarrollo:
-   ```shell
+7. Start the development server:
+   ````shell
    python manage.py runserver
    
-8. Acceda a la aplicación en su navegador web en http://localhost:8000.
+8. Access the application in your web browser at http://localhost:8000.
 
-## Uso
+## Usage
 
-- Visite la página de registro para crear una nueva cuenta.
-- Utilice la página de inicio de sesión para autenticarse y acceder a su cuenta.
-- Actualice la información de su perfil y gestione la configuración de su cuenta.
-- Realice operaciones CRUD para gestionar cuentas de usuario.
-- Si olvida su contraseña, utilice la función de restablecimiento de contraseña para restablecerla.
-- Los usuarios administradores pueden acceder a funciones adicionales, como la gestión de funciones y permisos de usuario.
+- Visit the registration page to create a new account.
+- Use the login page to authenticate and access your account.
+- Update your profile information and manage your account settings.
+- Perform CRUD operations to manage user accounts.
+- If you forget your password, use the password reset feature to reset your password.
+- Admin users can access additional features, such as managing user roles and permissions.
 
-## Contribuciones
+## License
 
-¡Las contribuciones son bienvenidas! Si quieres contribuir al proyecto, sigue estos pasos:
+This project is released under the "Free Use" license, which means that it is free to use, modify and distribute without additional restrictions.
 
-1. Fork el repositorio y crea una nueva rama para su función o corrección de errores.
-2. Haga los cambios necesarios y envíelos a su rama.
-3. Empuje su rama a su repositorio.
-4. Abra un pull request en el repositorio principal.
+## Contact
 
-## Licencia
+If you have any questions or suggestions, feel free to contact us at fabioavila537@gmail.com.
 
-Este proyecto se publica bajo la licencia "Libre uso", lo que significa que es libre de usar, modificar y distribuir sin restricciones adicionales.
+Be sure to customize the README file with specific details about your project, such as installation instructions, usage guidelines and contact information.
 
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros en fabioavila537@gmail.com.
-
-Asegurate de personalizar el archivo README con detalles específicos sobre su proyecto, como instrucciones de instalación, directrices de uso e información de contacto.
-
-¡Buena suerte con tu proyecto Django CRUD Auth! Si tienes más preguntas, no dudes en hacerlas.
+Good luck with your Django CRUD Auth project! If you have any further questions, feel free to ask.
